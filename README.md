@@ -1,4 +1,4 @@
-<h1 align="center"> Explorer Lab #01 </h1>
+<h1 align="center"> Explorer Lab #02 Finalizada </h1>
 
 <p align="center">
 Desafio proposto no Evento Explorer Lab, promovido pela Rocketseat para ensino de tecnologias WEB.
@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript e JSON
 - [Node e NPM](https://nodejs.org/)
 - [Vite](https://vitejs.dev/)
-- [iMask](https://imask.js.org)
+- [iMask](https://imask.js.org/guide.html)
 
 ## 💻 Projeto
 
@@ -36,8 +36,8 @@ O Rocketpay é um componente que simula o formulário de preenchimento de cartã
 #Checklist de desenvolvimento:
 
 - [x] Aula 1, Construindo as bases e explorando o JS DOM, Modificando estado CSS do cartão conforme Bandeira do cartão, VISA, MASTERCARD etc..... usando javascript.
-- [ ] Aula 2, Profissionalizando seu projeto.
-- [ ] Aula 3, Ampliando seu portfólio + próximos passos.
+- [x] Aula 2, Profissionalizando o projeto com Imask, criando as mascaras dos imputs e expressão regular.
+- [ ] Aula 3, Ampliando o portfólio + próximos passos.
 - [ ] Aula Extra, Explorer Career
 
 ## 🔖 Layout
