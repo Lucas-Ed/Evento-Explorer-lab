@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
 [Mais detalhes do projeto aqui.](https://efficient-sloth-d85.notion.site/Explorer-Lab-3c5610edf42c4c09be70d9fc8837055e)
 
-#Checklist de desenvolvimento:
+## Checklist de desenvolvimento:
 
 - [x] Aula 1, Construindo as bases e explorando o JS DOM, Modificando estado CSS do cartão conforme Bandeira do cartão, VISA, MASTERCARD etc..... usando javascript.
 - [x] Aula 2, Profissionalizando o projeto com Imask, criando as mascaras dos imputs e expressão regular.
