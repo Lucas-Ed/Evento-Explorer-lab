@@ -38,8 +38,8 @@ O Rocketpay é um componente que simula o formulário de preenchimento de cartã
 
 - [x] Aula 1, Construindo as bases e explorando o JS DOM, Modificando estado CSS do cartão conforme Bandeira do cartão, VISA, MASTERCARD etc..... usando javascript.
 - [x] Aula 2, Profissionalizando o projeto com Imask, criando as mascaras dos imputs e expressão regular.
-- [x] Aula 3, Manipulando eventos da Dom e eventos do imask
-- [ ] Aula Extra, Explorer Career
+- [x] Aula 3, Manipulando eventos da Dom e eventos do imask.
+
 
 ## 🔖 Layout
 
