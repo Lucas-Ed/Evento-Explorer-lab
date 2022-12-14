@@ -34,10 +34,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
 [Mais detalhes do projeto aqui.](https://efficient-sloth-d85.notion.site/Explorer-Lab-3c5610edf42c4c09be70d9fc8837055e)
 
-## 📹 Video do projeto
+<!---## 📹 Video do projeto
 <div align="center">
   <video src="https://streamable.com/x2i5fc.mp4">
-</div>
+</div>----->
 
 ## Checklist de desenvolvimento:
 
